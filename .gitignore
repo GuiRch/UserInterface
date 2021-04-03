@@ -1,6 +1,6 @@
 
-# Created by https://www.toptal.com/developers/gitignore/api/vuejs,macos,windows,linux,node
-# Edit at https://www.toptal.com/developers/gitignore?templates=vuejs,macos,windows,linux,node
+# Created by https://www.toptal.com/developers/gitignore/api/node,macos,linux,windows
+# Edit at https://www.toptal.com/developers/gitignore?templates=node,macos,linux,windows
 
 ### Linux ###
 *~
@@ -172,12 +172,6 @@ dist/
 tmp/
 temp/
 
-### Vuejs ###
-# Recommended template: Node.gitignore
-
-npm-debug.log
-yarn-error.log
-
 ### Windows ###
 # Windows thumbnail cache files
 Thumbs.db
@@ -204,4 +198,4 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# End of https://www.toptal.com/developers/gitignore/api/vuejs,macos,windows,linux,node
+# End of https://www.toptal.com/developers/gitignore/api/node,macos,linux,windows
