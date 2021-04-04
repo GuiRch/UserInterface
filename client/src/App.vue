@@ -3,7 +3,8 @@
     <router-link to="/">Home</router-link> |
     <router-link to="/about">About</router-link> |
     <router-link to="/ethereum">Ethereum</router-link> |
-    <router-link to="/test">Test</router-link>
+    <router-link to="/test">Test</router-link> |
+    <router-link to="/dapp">Dapp</router-link>
   </div>
   <router-view/>
 </template>
